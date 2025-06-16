@@ -1,4 +1,10 @@
 # Colmar Academy
+
+## Live Link
+```
+  https://prathameshkaratkar.github.io/Colmar-Academy/
+```
+
 ## About The Project
 This project was completed as part of `Codecademy's Build a Website with HTML, CSS, and Github Pages Path`.
 This was the learn how to build websites capstone project, in which I applied everything I had learned to 
